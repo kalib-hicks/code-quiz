@@ -211,7 +211,7 @@ function checkAnswer(answer){
     }else{
         showScore();
     }   
-}
+}  
 
 // quiz start button*/
 startQuizButton.addEventListener("click",startQuiz);
