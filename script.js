@@ -210,7 +210,7 @@ function checkAnswer(answer){
         // incorrect answer display
     }else{
         showScore();
-    }
+    }   
 }
 
 // quiz start button*/
